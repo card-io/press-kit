@@ -1,2 +1,2 @@
-card-io-press-kit
+card.io Press Kit
 =================
